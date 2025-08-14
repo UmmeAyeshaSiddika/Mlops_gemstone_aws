@@ -1,5 +1,5 @@
-==> 2025-08-14 20:11:51 <==
-# cmd: C:\Users\sarke\anaconda3\Scripts\conda-script.py create -p env python=3.12
+==> 2025-08-14 20:32:28 <==
+# cmd: C:\Users\sarke\anaconda3\Scripts\conda-script.py create --prefix ./env python=3.12 -y
 # conda version: 25.5.1
 +defaults/noarch::pip-25.1-pyhc872135_2
 +defaults/noarch::tzdata-2025b-h04d1e81_0
